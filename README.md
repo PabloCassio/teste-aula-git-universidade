@@ -1,2 +1,4 @@
-# teste-aula-git-universidade
-Aula de GitHub - Una Betim
+# Aula de Git
+
+## LinkedIn
+*www.linkedin.com/in/pablo-lopes-6b491227
